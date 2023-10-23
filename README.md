@@ -1,9 +1,8 @@
 # My LeetCode Solutions
-This a repository for the leetcode challenges I have completed.
+This a repository for the leetcode challenges that I have completed.
 
-All solutions contain the code solution, and occasionally the thought process behind it for non-trivial problems.
-
-# Quick Links
+Unless otherwise specified, these are written primarily for readability and thought process organization instead of performance.
 
 ### LeetCode 75
-- [Javascript](Javascript/LeetCode)
+- [Javascript](Javascript/LeetCode%2075)
+- [Python](Python/LeetCode%2075)
